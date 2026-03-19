@@ -15632,7 +15632,7 @@
 			)
 		)
 		(property "Value" "10Ω"
-			(at 248.92 71.12 90)
+			(at 249.174 72.136 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18190,7 +18190,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "924ffa93-5ae2-4bb1-9fbd-38502d920c74")
+		(uuid "924ffa93-5ae2-4bb1-9fbd-38502d920c75")
 		(property "Reference" "R39"
 			(at 352.044 68.072 0)
 			(effects
@@ -18244,10 +18244,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "aebef40f-19e8-42d4-accf-3c726d069647")
+			(uuid "aebef40f-19e8-42d4-accf-3c726d069648")
 		)
 		(pin "1"
-			(uuid "51d3aa34-7894-4b2c-901a-67b7f877f062")
+			(uuid "51d3aa34-7894-4b2c-901a-67b7f877f063")
 		)
 		(instances
 			(project "cm5-carrier"
@@ -18266,7 +18266,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "924ffa93-5ae2-4bb1-9fbd-38502d920c74")
+		(uuid "924ffa93-5ae2-4bb1-9fbd-38502d920c76")
 		(property "Reference" "R18"
 			(at 137.414 132.588 0)
 			(effects
@@ -18320,10 +18320,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "aebef40f-19e8-42d4-accf-3c726d069647")
+			(uuid "aebef40f-19e8-42d4-accf-3c726d069649")
 		)
 		(pin "1"
-			(uuid "51d3aa34-7894-4b2c-901a-67b7f877f062")
+			(uuid "51d3aa34-7894-4b2c-901a-67b7f877f064")
 		)
 		(instances
 			(project "cm5-carrier"
