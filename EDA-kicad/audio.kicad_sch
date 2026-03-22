@@ -6566,7 +6566,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "012b4c6e-ef21-47ad-a03f-cacb48e7d3dc")
-		(property "Reference" "LS3"
+		(property "Reference" "LS1"
 			(at 265.43 59.436 0)
 			(effects
 				(font
@@ -6731,7 +6731,7 @@
 		(instances
 			(project ""
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "LS3")
+					(reference "LS1")
 					(unit 1)
 				)
 			)
@@ -6746,7 +6746,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "01b645c7-3b23-412b-a3c8-f84b14a84dde")
-		(property "Reference" "C54"
+		(property "Reference" "C17"
 			(at 144.272 106.68 90)
 			(effects
 				(font
@@ -6798,7 +6798,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C54")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -6814,7 +6814,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "0450c1af-444b-4061-bbdc-e30e6aa1cd1f")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR073"
 			(at 374.65 88.9 0)
 			(effects
 				(font
@@ -6864,7 +6864,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR070")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -6881,7 +6881,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "073b7885-b7f9-42c8-ae5c-e8906e6ef3e7")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR071"
 			(at 161.29 88.9 0)
 			(effects
 				(font
@@ -6931,7 +6931,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR077")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -6946,7 +6946,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "08e77aaf-4d2d-446d-a919-152c7051bf0b")
-		(property "Reference" "C63"
+		(property "Reference" "C21"
 			(at 202.692 118.11 90)
 			(effects
 				(font
@@ -6998,7 +6998,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C63")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -7013,7 +7013,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "0da2a5e0-e8d1-4a91-b63e-7bef4092862c")
-		(property "Reference" "C6"
+		(property "Reference" "C13"
 			(at 370.078 81.026 90)
 			(effects
 				(font
@@ -7068,7 +7068,7 @@
 		(instances
 			(project ""
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C6")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -7083,7 +7083,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "17be2e78-00a2-4bb6-9e30-0f71b2ed59e7")
-		(property "Reference" "C57"
+		(property "Reference" "C11"
 			(at 202.692 77.47 90)
 			(effects
 				(font
@@ -7135,7 +7135,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C57")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -7150,7 +7150,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "204d2489-d8a0-4a97-b4de-050d1be7d618")
-		(property "Reference" "C29"
+		(property "Reference" "C8"
 			(at 73.152 70.612 0)
 			(effects
 				(font
@@ -7202,7 +7202,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C29")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -7217,7 +7217,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "236e744f-d5e4-4f25-9d58-f3d07714fa0c")
-		(property "Reference" "C53"
+		(property "Reference" "C24"
 			(at 79.756 121.92 90)
 			(effects
 				(font
@@ -7269,7 +7269,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C53")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -7285,7 +7285,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "2761a695-20ce-417a-888d-38f3d5dba875")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR085"
 			(at 111.76 171.45 0)
 			(effects
 				(font
@@ -7335,7 +7335,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR097")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -7352,7 +7352,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2c1502e4-5d32-4e03-beec-cab4dfcbf077")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR077"
 			(at 215.9 100.33 0)
 			(effects
 				(font
@@ -7402,7 +7402,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR0102")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -7417,7 +7417,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "30f1b356-1dd9-49c3-a221-357adc942452")
-		(property "Reference" "R40"
+		(property "Reference" "R6"
 			(at 186.69 113.538 90)
 			(effects
 				(font
@@ -7469,7 +7469,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "R40")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -7485,7 +7485,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31674c45-62c0-413b-89b8-6809dbfa446b")
-		(property "Reference" "LS4"
+		(property "Reference" "LS2"
 			(at 265.176 105.156 0)
 			(effects
 				(font
@@ -7650,7 +7650,7 @@
 		(instances
 			(project ""
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "LS4")
+					(reference "LS2")
 					(unit 1)
 				)
 			)
@@ -7665,7 +7665,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "3d4bf73c-929a-4c96-86e3-bf3365e10964")
-		(property "Reference" "C59"
+		(property "Reference" "C15"
 			(at 202.692 87.122 0)
 			(effects
 				(font
@@ -7717,7 +7717,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C59")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -7734,7 +7734,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4463c97c-1d30-4e01-8b44-25e74575d06e")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR065"
 			(at 74.93 64.77 0)
 			(effects
 				(font
@@ -7784,7 +7784,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR078")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -7800,7 +7800,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "5beeefdb-3bb3-40a2-a049-f40889170179")
-		(property "Reference" "#1.8V03"
+		(property "Reference" "#1.8V02"
 			(at 161.29 26.67 0)
 			(effects
 				(font
@@ -7849,7 +7849,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#1.8V03")
+					(reference "#1.8V02")
 					(unit 1)
 				)
 			)
@@ -7929,7 +7929,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "62491c40-e4f0-45d6-88e4-a5b80b2cfcfb")
-		(property "Reference" "U5"
+		(property "Reference" "U3"
 			(at 37.084 91.44 0)
 			(effects
 				(font
@@ -7987,7 +7987,7 @@
 		(instances
 			(project ""
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "U5")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -8003,7 +8003,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "62bdf2da-6375-43b6-af44-42b298cb8813")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR072"
 			(at 351.79 88.9 0)
 			(effects
 				(font
@@ -8053,7 +8053,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR069")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -8068,7 +8068,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "6ea30219-f357-4b22-b695-17b6c4cc0d88")
-		(property "Reference" "C49"
+		(property "Reference" "C19"
 			(at 28.702 110.49 90)
 			(effects
 				(font
@@ -8120,7 +8120,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C49")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -8135,7 +8135,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "71c9572a-0d1d-4286-bc6c-5aea1c34898f")
-		(property "Reference" "C61"
+		(property "Reference" "C23"
 			(at 192.278 121.412 0)
 			(effects
 				(font
@@ -8187,7 +8187,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C61")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -8203,7 +8203,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "7218b4a9-be19-4d48-8642-0d4404f6f432")
-		(property "Reference" "#3.3V05"
+		(property "Reference" "#3.3V04"
 			(at 153.67 26.67 0)
 			(effects
 				(font
@@ -8252,7 +8252,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#3.3V05")
+					(reference "#3.3V04")
 					(unit 1)
 				)
 			)
@@ -8267,7 +8267,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "7254cae4-5c5c-43ab-80fa-06c068606735")
-		(property "Reference" "C50"
+		(property "Reference" "C18"
 			(at 79.756 107.95 90)
 			(effects
 				(font
@@ -8319,7 +8319,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C50")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -8335,7 +8335,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "77d16892-cb25-49e3-8b9b-727da6897c0c")
-		(property "Reference" "U14"
+		(property "Reference" "U5"
 			(at 237.49 100.33 0)
 			(effects
 				(font
@@ -8410,7 +8410,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "U14")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -8426,7 +8426,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "7d4ba3ab-bd9b-49af-8c7d-10530827c030")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR070"
 			(at 190.5 83.82 0)
 			(effects
 				(font
@@ -8476,7 +8476,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR098")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -8491,7 +8491,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "7ec72541-9614-4910-9c55-29d2aa6dd3a6")
-		(property "Reference" "C5"
+		(property "Reference" "C12"
 			(at 347.726 80.772 90)
 			(effects
 				(font
@@ -8546,7 +8546,7 @@
 		(instances
 			(project ""
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C5")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -8562,7 +8562,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "7f90f875-5562-4e15-9027-47d8d21f4a81")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR067"
 			(at 210.82 72.39 0)
 			(effects
 				(font
@@ -8612,7 +8612,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR099")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -8627,7 +8627,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "841d932a-0a50-4afb-9e7e-1da76aa7c7a4")
-		(property "Reference" "C60"
+		(property "Reference" "C16"
 			(at 210.312 87.122 0)
 			(effects
 				(font
@@ -8679,7 +8679,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C60")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -8696,7 +8696,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "86015146-6ee9-4377-91d7-84773cc6b56a")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR076"
 			(at 204.47 99.06 0)
 			(effects
 				(font
@@ -8746,7 +8746,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR0100")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -8761,7 +8761,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "874f7475-3122-44a0-ab0d-bc92a4f023cf")
-		(property "Reference" "C48"
+		(property "Reference" "C9"
 			(at 82.042 70.612 0)
 			(effects
 				(font
@@ -8813,7 +8813,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C48")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -8830,7 +8830,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "944a59cd-b9c5-4fbb-92e5-a89d670dd355")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR074"
 			(at 73.66 92.71 0)
 			(effects
 				(font
@@ -8880,7 +8880,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR088")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -8896,7 +8896,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "944b543c-39c5-4c12-85c7-e547e4511558")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR066"
 			(at 374.65 67.31 0)
 			(effects
 				(font
@@ -8946,7 +8946,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR067")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -8962,7 +8962,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "a3cb96d5-258e-4977-a46d-dde133152c49")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR080"
 			(at 190.5 129.54 0)
 			(effects
 				(font
@@ -9012,7 +9012,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR0103")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -9028,7 +9028,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "a461d24e-393c-48c0-9b96-b4e9e5c8c968")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR075"
 			(at 328.93 95.25 0)
 			(effects
 				(font
@@ -9078,7 +9078,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR071")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -9095,7 +9095,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a5646ab1-0c71-453d-af56-2e5713da8de6")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR069"
 			(at 71.12 83.82 0)
 			(effects
 				(font
@@ -9145,7 +9145,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR081")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -9162,7 +9162,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a5d36287-4e41-4dbb-935e-1a64ae5ed818")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR078"
 			(at 50.8 115.57 0)
 			(effects
 				(font
@@ -9212,7 +9212,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR066")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -9227,7 +9227,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "a722351f-e4d1-4eb1-bedc-b6a956e3afad")
-		(property "Reference" "C28"
+		(property "Reference" "C7"
 			(at 64.262 70.612 0)
 			(effects
 				(font
@@ -9279,7 +9279,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C28")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -9294,7 +9294,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "aa525c8f-da37-4855-8f3e-5ad9c7cb737d")
-		(property "Reference" "R38"
+		(property "Reference" "R4"
 			(at 154.94 76.708 90)
 			(effects
 				(font
@@ -9346,7 +9346,7 @@
 		(instances
 			(project ""
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "R38")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -9428,7 +9428,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ac652347-c610-4ba9-abe6-63f3bb47c1e3")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR084"
 			(at 215.9 146.05 0)
 			(effects
 				(font
@@ -9478,7 +9478,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR0106")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -9495,7 +9495,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "adc257d5-3fb7-4342-8ee6-706f91a3dc2d")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR082"
 			(at 204.47 144.78 0)
 			(effects
 				(font
@@ -9545,7 +9545,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR0104")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -9560,7 +9560,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "aef26572-28f6-49f2-a2f2-02a4d8402da8")
-		(property "Reference" "C56"
+		(property "Reference" "C6"
 			(at 202.692 72.39 90)
 			(effects
 				(font
@@ -9612,7 +9612,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C56")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -9628,7 +9628,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "b0493455-9218-497e-bb4b-f503bebc4888")
-		(property "Reference" "R3"
+		(property "Reference" "R5"
 			(at 322.834 79.248 90)
 			(effects
 				(font
@@ -9723,7 +9723,7 @@
 		(instances
 			(project ""
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "R3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -9879,7 +9879,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "b5ab7d74-19dd-401a-8041-8db0e1c49cfe")
-		(property "Reference" "C26"
+		(property "Reference" "C14"
 			(at 144.272 83.566 90)
 			(effects
 				(font
@@ -9931,7 +9931,7 @@
 		(instances
 			(project ""
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C26")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -9947,7 +9947,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "b9da9146-f7d3-4ea3-ba69-1018509b4984")
-		(property "Reference" "#3.3V04"
+		(property "Reference" "#3.3V03"
 			(at 146.05 26.67 0)
 			(effects
 				(font
@@ -9996,7 +9996,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#3.3V04")
+					(reference "#3.3V03")
 					(unit 1)
 				)
 			)
@@ -10011,7 +10011,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "bbb5d5a7-5de6-477d-86a3-f7d446371314")
-		(property "Reference" "C64"
+		(property "Reference" "C25"
 			(at 202.692 123.19 90)
 			(effects
 				(font
@@ -10063,7 +10063,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C64")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -10078,7 +10078,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "bcfa5cfd-a142-4a8a-b0e9-c91bd2940d12")
-		(property "Reference" "C55"
+		(property "Reference" "C22"
 			(at 144.272 119.38 90)
 			(effects
 				(font
@@ -10130,7 +10130,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C55")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -10145,7 +10145,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "bd6d5fd5-3b4b-4e44-8b46-4f5896ec7458")
-		(property "Reference" "C58"
+		(property "Reference" "C10"
 			(at 192.278 75.692 0)
 			(effects
 				(font
@@ -10197,7 +10197,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C58")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -10213,7 +10213,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "c976c23a-1c3f-45fa-8cbf-dd99661ba1fd")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR079"
 			(at 210.82 118.11 0)
 			(effects
 				(font
@@ -10263,7 +10263,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR0105")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -10278,7 +10278,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "c9f7943d-6529-432c-beb5-7182d918db9d")
-		(property "Reference" "C51"
+		(property "Reference" "C26"
 			(at 28.702 135.89 90)
 			(effects
 				(font
@@ -10330,7 +10330,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C51")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -10347,7 +10347,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "cc824e9a-b0b5-4220-abf5-e3837a499166")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR081"
 			(at 50.8 140.97 0)
 			(effects
 				(font
@@ -10397,7 +10397,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR096")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -10412,7 +10412,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "d2eb64bd-e587-41e3-97e3-f264d65c4d5f")
-		(property "Reference" "C27"
+		(property "Reference" "C5"
 			(at 80.01 53.848 90)
 			(effects
 				(font
@@ -10464,7 +10464,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C27")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -10479,7 +10479,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "d3781a26-c9b4-4c13-bfb9-c1d26a5a6e9a")
-		(property "Reference" "C65"
+		(property "Reference" "C28"
 			(at 210.312 132.842 0)
 			(effects
 				(font
@@ -10531,7 +10531,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C65")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -10547,7 +10547,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d4ac0ae8-2977-4649-b0fa-58e41d31dbdc")
-		(property "Reference" "U13"
+		(property "Reference" "U2"
 			(at 237.49 54.61 0)
 			(effects
 				(font
@@ -10622,7 +10622,7 @@
 		(instances
 			(project ""
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "U13")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -10637,7 +10637,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "d6fafcaf-c5cc-4fec-aa3a-c5125b23307b")
-		(property "Reference" "R39"
+		(property "Reference" "R3"
 			(at 186.69 67.818 90)
 			(effects
 				(font
@@ -10689,7 +10689,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "R39")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -10704,7 +10704,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "d8a6592e-ff5e-453a-9e7f-8dc12ef831c5")
-		(property "Reference" "C62"
+		(property "Reference" "C27"
 			(at 202.692 132.842 0)
 			(effects
 				(font
@@ -10756,7 +10756,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C62")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -10771,7 +10771,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "db380d28-d2f2-48f2-82f0-af586fab939d")
-		(property "Reference" "C52"
+		(property "Reference" "C20"
 			(at 79.756 115.57 90)
 			(effects
 				(font
@@ -10823,7 +10823,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "C52")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -11018,7 +11018,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ddf31fef-f065-4eaf-abeb-73a5ae95ead7")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 116.84 55.88 0)
 			(effects
 				(font
@@ -11204,7 +11204,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "U3")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -11220,7 +11220,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "e5b8baaf-df8d-430e-ab65-3d5c3ebf2f87")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR083"
 			(at 146.05 146.05 0)
 			(effects
 				(font
@@ -11270,7 +11270,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "#PWR072")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -11285,7 +11285,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "e6beeaba-5ec6-483c-9a67-ba8492815f8f")
-		(property "Reference" "U12"
+		(property "Reference" "U6"
 			(at 37.084 116.84 0)
 			(effects
 				(font
@@ -11343,7 +11343,7 @@
 		(instances
 			(project "cm5-carrier"
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/dae24383-d996-4b63-b3a8-c19902a00c63"
-					(reference "U12")
+					(reference "U6")
 					(unit 1)
 				)
 			)
