@@ -10925,7 +10925,7 @@
 			)
 		)
 	)
-	(global_label "SDA"
+	(global_label "SDA CH"
 		(shape bidirectional)
 		(at 90.17 90.17 180)
 		(fields_autoplaced yes)
@@ -10937,7 +10937,7 @@
 		)
 		(uuid "852b0e78-b1cb-4d3c-b209-c73e6d29869b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 82.5054 90.17 0)
+			(at 78.9373 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11387,7 +11387,7 @@
 			)
 		)
 	)
-	(global_label "SCL"
+	(global_label "SCL CH"
 		(shape bidirectional)
 		(at 90.17 87.63 180)
 		(fields_autoplaced yes)
@@ -11399,7 +11399,7 @@
 		)
 		(uuid "eb46a1e7-991e-4da8-8514-7def785fd5dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 82.5659 87.63 0)
+			(at 78.9978 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17711,7 +17711,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "924724c4-bda4-4160-a546-667f4472e995")
 		(property "Reference" "U7"
 			(at 110.49 59.69 0)
@@ -21650,7 +21649,8 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 69.85 67.31 180)
+		(at 69.85 67.31 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21658,7 +21658,7 @@
 		(dnp no)
 		(uuid "d9b66390-dd77-4228-a4ab-ba97ad3f058b")
 		(property "Reference" "R7"
-			(at 64.516 65.278 0)
+			(at 75.184 65.278 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21667,7 +21667,7 @@
 			)
 		)
 		(property "Value" "127kΩ"
-			(at 62.23 67.564 0)
+			(at 77.47 67.564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21676,7 +21676,7 @@
 			)
 		)
 		(property "Footprint" "SPIRIT-footprints:0805-resistor"
-			(at 71.628 67.31 90)
+			(at 68.072 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
