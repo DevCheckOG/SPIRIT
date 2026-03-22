@@ -10597,8 +10597,8 @@
 		)
 		(uuid "fe21fc88-b092-443f-ac58-33cb5af09610")
 	)
-	(global_label "3V3B"
-		(shape input)
+	(global_label "1V8"
+		(shape output)
 		(at 153.67 180.34 0)
 		(fields_autoplaced yes)
 		(effects
