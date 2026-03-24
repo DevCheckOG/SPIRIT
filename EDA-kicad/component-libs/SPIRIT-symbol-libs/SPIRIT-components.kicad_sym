@@ -24013,10 +24013,19 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CX90MW9-24P1"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(symbol "USBC-4-0-CX90MW9-24P1_0_0"
 			(rectangle
-				(start -12.7 -30.48)
-				(end 12.7 15.24)
+				(start -12.7 15.24)
+				(end 12.7 -30.48)
 				(stroke
 					(width 0.254)
 					(type default)
