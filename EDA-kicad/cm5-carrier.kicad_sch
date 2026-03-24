@@ -9290,9 +9290,9 @@
 		)
 		(uuid "072844ce-eccc-4428-ae9b-3043c7ebbdae")
 	)
-	(text "doesn't cm5 already have pull ups?\n\n"
+	(text "SCL0 and SDA0 have internal 1.8k pull ups"
 		(exclude_from_sim no)
-		(at 212.852 176.276 0)
+		(at 210.058 176.276 0)
 		(effects
 			(font
 				(size 0.762 0.762)
@@ -37410,7 +37410,7 @@
 			)
 		)
 	)
-	(global_label "SCL PMIC"
+	(global_label "SCL PWR"
 		(shape bidirectional)
 		(at 236.22 172.72 180)
 		(fields_autoplaced yes)
@@ -37422,7 +37422,7 @@
 		)
 		(uuid "a176a869-336e-466f-926f-1c8924b2f56e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 223.0521 172.72 0)
+			(at 223.6569 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37564,7 +37564,7 @@
 			)
 		)
 	)
-	(global_label "SDA PMIC"
+	(global_label "SDA PWR"
 		(shape bidirectional)
 		(at 236.22 175.26 180)
 		(fields_autoplaced yes)
@@ -37576,7 +37576,7 @@
 		)
 		(uuid "bb59a81d-80f9-4ad2-8f2d-653bc4d71304")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 222.9916 175.26 0)
+			(at 223.5964 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
