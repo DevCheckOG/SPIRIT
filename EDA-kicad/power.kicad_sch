@@ -10315,7 +10315,7 @@
 			)
 		)
 	)
-	(global_label "LCD_PWM"
+	(global_label "LCD PWM"
 		(shape bidirectional)
 		(at 267.97 223.52 180)
 		(fields_autoplaced yes)
@@ -10887,7 +10887,7 @@
 			)
 		)
 	)
-	(global_label "~{LOW_BAT}"
+	(global_label "~{LOW BAT}"
 		(shape bidirectional)
 		(at 299.72 100.33 180)
 		(fields_autoplaced yes)
@@ -10931,7 +10931,7 @@
 			)
 		)
 	)
-	(global_label "EN3V3A-SW-OUT"
+	(global_label "EN3V3A SW OUT"
 		(shape bidirectional)
 		(at 303.53 148.59 180)
 		(fields_autoplaced yes)
@@ -10943,7 +10943,7 @@
 		)
 		(uuid "b0a24582-39b8-4274-a923-b5576f75dd25")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 282.9235 148.59 0)
+			(at 284.1331 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10997,7 +10997,7 @@
 			)
 		)
 	)
-	(global_label "EN3V3A-SW-OUT"
+	(global_label "EN3V3A SW OUT"
 		(shape bidirectional)
 		(at 110.49 185.42 0)
 		(fields_autoplaced yes)
@@ -11009,7 +11009,7 @@
 		)
 		(uuid "bb965ad9-9c7b-4157-ba9f-6b0208c27769")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0965 185.42 0)
+			(at 129.8869 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21336,7 +21336,7 @@
 		(dnp no)
 		(uuid "d9b66390-dd77-4228-a4ab-ba97ad3f058b")
 		(property "Reference" "R7"
-			(at 75.184 65.278 0)
+			(at 74.93 66.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21345,7 +21345,7 @@
 			)
 		)
 		(property "Value" "127kΩ"
-			(at 77.47 67.564 0)
+			(at 77.724 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)

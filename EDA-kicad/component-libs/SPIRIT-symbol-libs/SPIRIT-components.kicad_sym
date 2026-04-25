@@ -22784,10 +22784,12 @@
 					)
 				)
 			)
+		)
+		(symbol "USB SWITCH 2CHANNEL TS3USB221AQRSERQ1_1_1"
 			(pin unspecified line
 				(at 55.88 -10.16 180)
 				(length 7.62)
-				(name "*OE"
+				(name "~{OE}"
 					(effects
 						(font
 							(size 1.27 1.27)
