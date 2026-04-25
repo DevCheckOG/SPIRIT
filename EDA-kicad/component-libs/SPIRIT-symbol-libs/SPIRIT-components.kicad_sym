@@ -17300,8 +17300,26 @@
 					)
 				)
 			)
+			(pin input line
+				(at -20.32 -12.7 0)
+				(length 5.08)
+				(name "EN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin bidirectional line
-				(at -20.32 -15.24 0)
+				(at -20.32 -22.86 0)
 				(length 5.08)
 				(name "CSBU1"
 					(effects
@@ -17319,7 +17337,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -20.32 -17.78 0)
+				(at -20.32 -25.4 0)
 				(length 5.08)
 				(name "CSBU2"
 					(effects
@@ -17329,42 +17347,6 @@
 					)
 				)
 				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -20.32 -22.86 0)
-				(length 5.08)
-				(name "SSRXP"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "28"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -20.32 -25.4 0)
-				(length 5.08)
-				(name "SSRXN"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "27"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -17516,26 +17498,8 @@
 					)
 				)
 			)
-			(pin input line
-				(at 20.32 -7.62 180)
-				(length 5.08)
-				(name "EN"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
-				(at 20.32 -15.24 180)
+				(at 20.32 -7.62 180)
 				(length 5.08)
 				(name "SBU1"
 					(effects
@@ -17553,7 +17517,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 20.32 -17.78 180)
+				(at 20.32 -10.16 180)
 				(length 5.08)
 				(name "SBU2"
 					(effects
@@ -17563,6 +17527,42 @@
 					)
 				)
 				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 20.32 -13.97 180)
+				(length 5.08)
+				(name "SSRXN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 20.32 -16.51 180)
+				(length 5.08)
+				(name "SSRXP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "28"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -17606,10 +17606,12 @@
 					)
 				)
 			)
+		)
+		(symbol "HD3SS460RHRR_1_1"
 			(pin power_in line
 				(at 20.32 -30.48 180)
 				(length 5.08)
-				(name "PAD"
+				(name "PAD_GND"
 					(effects
 						(font
 							(size 1.27 1.27)
