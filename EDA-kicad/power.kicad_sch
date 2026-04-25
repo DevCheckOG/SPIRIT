@@ -11897,7 +11897,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board no)
-		(dnp yes)
+		(dnp no)
 		(uuid "0e04c4be-138a-4c63-9897-29d72ffd0080")
 		(property "Reference" "R36"
 			(at 200.66 201.93 0)
@@ -21253,7 +21253,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8eb6af3-a9f6-4aeb-9142-2828c48c0486")
 		(property "Reference" "Q1"
@@ -22070,7 +22070,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e520b21d-6c45-45e8-9737-15665eaac33a")
 		(property "Reference" "R33"
 			(at 373.38 148.336 90)
