@@ -1538,6 +1538,317 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SPIRIT-components:USB SWITCH 2CHANNEL TS3USB221AQRSERQ1"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 27.94 10.16 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "USB SWITCH 2CHANNEL TS3USB221AQRSERQ1"
+				(at 27.94 7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "SPIRIT-footprints:USB-SWITCH-2CHANNEL-TS3USB221AQRSERQ1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/gpn/ts3usb221a-q1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "TS3USB221A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "TS3USB221AQRSERQ1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "RSE10"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "USB SWITCH 2CHANNEL TS3USB221AQRSERQ1_0_1"
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 -15.24)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -15.24) (xy 48.26 -15.24)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 48.26 5.08) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 48.26 -15.24) (xy 48.26 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 7.62)
+					(name "1D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -2.54 0)
+					(length 7.62)
+					(name "1D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -5.08 0)
+					(length 7.62)
+					(name "2D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -7.62 0)
+					(length 7.62)
+					(name "2D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -10.16 0)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 55.88 0 180)
+					(length 7.62)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 55.88 -2.54 180)
+					(length 7.62)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 55.88 -5.08 180)
+					(length 7.62)
+					(name "D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 55.88 -7.62 180)
+					(length 7.62)
+					(name "D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 55.88 -10.16 180)
+					(length 7.62)
+					(name "*OE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "SPIRIT-components:USB-protection-diode-PESD5V0C1USFYL"
 			(pin_numbers
 				(hide yes)
@@ -7536,7 +7847,43 @@
 			"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"
-			"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"
+			"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"
 		)
 	)
 	(global_label "TX2+"
@@ -8556,6 +8903,109 @@
 			(project ""
 				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/4d20c3c8-7f3b-4711-a43f-15c2a08af985"
 					(reference "U14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SPIRIT-components:USB SWITCH 2CHANNEL TS3USB221AQRSERQ1")
+		(at 91.44 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8677708a-e86e-4bc6-bbac-941679e5dfd8")
+		(property "Reference" "U15"
+			(at 119.38 147.32 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "USB SWITCH 2CHANNEL TS3USB221AQRSERQ1"
+			(at 119.38 149.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "SPIRIT-footprints:USB-SWITCH-2CHANNEL-TS3USB221AQRSERQ1"
+			(at 91.44 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/gpn/ts3usb221a-q1"
+			(at 91.44 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TS3USB221A"
+			(at 91.44 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "ce6852dd-a7d2-4092-86fa-a4c5bdbcde43")
+		)
+		(pin "8"
+			(uuid "155865e1-8cff-459c-9c90-80a9acbf8479")
+		)
+		(pin "9"
+			(uuid "c196074a-2428-4a8f-b751-0cd691f9f8b8")
+		)
+		(pin "10"
+			(uuid "6b1b2dd4-f593-4281-beb7-4781a1312cc1")
+		)
+		(pin "7"
+			(uuid "5664ab35-d6ed-48d3-a825-4125681cdc55")
+		)
+		(pin "4"
+			(uuid "17d59242-f6fc-4d17-8e51-56488989e8c3")
+		)
+		(pin "3"
+			(uuid "6911b8e5-04bc-440b-a0b0-b38f801b7aff")
+		)
+		(pin "1"
+			(uuid "3251f089-7c94-4be6-8766-f6d51245cc29")
+		)
+		(pin "2"
+			(uuid "4bd94050-fcca-476d-82b9-76fa49a7077a")
+		)
+		(pin "5"
+			(uuid "d7497598-3566-4647-ada3-245606bdea29")
+		)
+		(instances
+			(project ""
+				(path "/28c5e4fe-1ec7-4477-97f0-d2ec1401fad5/4d20c3c8-7f3b-4711-a43f-15c2a08af985"
+					(reference "U15")
 					(unit 1)
 				)
 			)
